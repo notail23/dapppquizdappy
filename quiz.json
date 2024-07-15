@@ -1,19 +1,44 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of global economics.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is GDP?",
+      "answers": ["Product", "Demand", "Profit"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What does WTO stand for?",
+      "answers": ["Trade", "Union", "Market"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is inflation?",
+      "answers": ["Rising", "Falling", "Stable"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does IMF stand for?",
+      "answers": ["Fund", "Market", "Trade"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a tariff?",
+      "answers": ["Tax", "Fee", "Quota"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is NAFTA?",
+      "answers": ["Trade", "Union", "Market"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a recession?",
+      "answers": ["Decline", "Growth", "Boom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is currency devaluation?",
+      "answers": ["Reduce", "Increase", "Stabilize"],
       "correctAnswerIndex": 0
     }
   ]
